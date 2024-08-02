@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personal-blog/static/css/main.e5b9019a.css",
+    "main.js": "/personal-blog/static/js/main.fc552564.js",
+    "static/media/books2.jpeg": "/personal-blog/static/media/books2.5a41500e8438f1202eb3.jpeg",
+    "static/media/study.jpeg": "/personal-blog/static/media/study.5b8307907476d9f0494a.jpeg",
+    "static/media/travel.jpeg": "/personal-blog/static/media/travel.d95436b5ad5e0f08575e.jpeg",
+    "static/media/daisy.webp": "/personal-blog/static/media/daisy.8fcac83fbaa0116c4300.webp",
+    "static/media/photo.jpg": "/personal-blog/static/media/photo.cbebdb59600987b5610f.jpg",
+    "static/media/meal.jpg": "/personal-blog/static/media/meal.6f7a20b8a1c732494542.jpg",
+    "static/media/paper-plane5.png": "/personal-blog/static/media/paper-plane5.87b607b8f48f9e708ec0.png",
+    "static/media/coding.jpeg": "/personal-blog/static/media/coding.577550def433122e1c77.jpeg",
+    "static/media/cosy4.jpeg": "/personal-blog/static/media/cosy4.6ffa07953e0a29f7b4fb.jpeg",
+    "static/media/bird.jpg": "/personal-blog/static/media/bird.c417bf6dcf2c1aee5e5b.jpg",
+    "static/media/sun3.jpeg": "/personal-blog/static/media/sun3.6c47e1dac3dca51301cc.jpeg",
+    "index.html": "/personal-blog/index.html",
+    "main.e5b9019a.css.map": "/personal-blog/static/css/main.e5b9019a.css.map",
+    "main.fc552564.js.map": "/personal-blog/static/js/main.fc552564.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b9019a.css",
+    "static/js/main.fc552564.js"
+  ]
+}
