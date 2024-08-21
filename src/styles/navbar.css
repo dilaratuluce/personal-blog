@@ -25,6 +25,12 @@
   padding: 20px;
 }
 
+.title span {
+  font-size: 120%;
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
 .link {
   text-decoration: none;
   color: inherit;
@@ -42,6 +48,18 @@
 
 .link:hover {
   cursor: pointer;
+}
+
+@media (max-width: 380px) {
+  .title {
+    margin-right: 10%;
+  }
+}
+
+@media (max-width: 300px) {
+  .title {
+    margin-right: 0%;
+  }
 }
 
 

@@ -5,9 +5,9 @@ const Navbar = (props) => {
   return ( 
     <div className="navbar">
       <div className="title">
-          <span style={{ fontSize: "120%" }}>DILARA</span>
+          <span>DILARA</span>
       </div>
-      <div className="links" >
+      <div className="links">
         <Link 
           to="/" 
           className={`link ${props.page === "about" ? "selected-link" : ""}`} 

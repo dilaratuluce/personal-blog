@@ -50,3 +50,58 @@
 .back-button svg {
   width: 30px;
 }
+
+@media (max-width: 768px) {
+  .blog-page {
+    padding: 25px;
+  }
+
+  .blog-page-content *{
+    font-size: 18px; /* main font was 20 */
+  }
+  .blog-page-title {
+    font-size: 25px;
+  }
+
+  .blog-page-date {
+    font-size: 18px;
+  }
+
+  .back-button svg {
+    width: 25px; 
+  }
+}
+
+@media (max-width: 420px) {
+  .blog-page {
+    padding: 20px;
+    --min-width: 380px;
+  }
+}
+@media (max-width: 400px) {
+  .blog-page {
+    padding: 15px;
+    --min-width: 350px;
+  }
+}
+@media (max-width: 380px) {
+  .blog-page {
+    padding: 15px;
+    --min-width: 330px;
+  }
+  .blog-page-content *{
+    font-size: 16px; 
+  }
+}
+@media (max-width: 360px) {
+  .blog-page {
+    padding: 15px;
+    --min-width: 310px;
+  }
+}
+@media (max-width: 340px) {
+  .blog-page {
+    padding: 15px;
+    --min-width: 290px;
+  }
+}

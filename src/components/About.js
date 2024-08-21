@@ -14,7 +14,7 @@ const About = () => {
             From a young age, I've been captivated by the delight of reading and writing. Whether it's getting lost in a good book or expressing my thoughts through writing, these hobbies have always been my source of inspiration and creativity. I've finally decided to create a blog of my own where I aim to share my journey, my learnings in software development, and my thoughts on various topics that intrigue me.
           </p>
           <p>
-            I hope you find my posts insightful and engaging. Thank you for visiting my blog, and happy reading!
+            Thank you for visiting my blog, and happy reading!
           </p>
         </div>
       </div>
