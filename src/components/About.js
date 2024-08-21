@@ -19,12 +19,12 @@ const About = () => {
         </div>
       </div>
       <div className="grid-container">
-        <img className="about-img img1" src={require("../static/about_images/books2.jpeg")} />
-        <img className="about-img img2" src={require("../static/about_images/daisy.webp")} />
-        <img className="about-img img3" src={require("../static/about_images/cosy4.jpeg")} />
-        <img className="about-img img4" src={require("../static/about_images/travel.jpeg")} />
-        <img className="about-img img5" src={require("../static/about_images/coding.jpeg")} />
-        <img className="about-img img6" src={require("../static/about_images/sun3.jpeg")} />
+        <img className="about-img img1" src={require("../static/about_images/books2.jpeg")} alt="books"/>
+        <img className="about-img img2" src={require("../static/about_images/daisy.webp")} alt="daisy"/>
+        <img className="about-img img3" src={require("../static/about_images/cosy4.jpeg")} alt="cosy"/>
+        <img className="about-img img4" src={require("../static/about_images/travel.jpeg")} alt="travel"/>
+        <img className="about-img img5" src={require("../static/about_images/coding.jpeg")} alt="coding"/>
+        <img className="about-img img6" src={require("../static/about_images/sun3.jpeg")} alt="sun"/>
       </div>
     </div> 
     </div>

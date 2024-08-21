@@ -4,7 +4,7 @@ import blogsData from "../static/blogs.json";
 import React from "react";
 
 const BlogPreview = () => {
-  const [blogs, setBlogs] = React.useState(blogsData.blogPosts);
+  const [blogs] = React.useState(blogsData.blogPosts);
   return ( 
     <div className="blogs">
       {blogs.map((blog) => (
